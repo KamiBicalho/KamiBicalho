@@ -15,13 +15,13 @@
 ## Feramentas que uso: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height=50px > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height=50px >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height=50px > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=50px >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=50px> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height=50px >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=50px> <img src="https://www.shareicon.net/data/2015/09/15/101512_logo_512x512.png" height=50px >
 
 
 ## Estatísticas <br>
-[<img width="500px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamibicalho&layout=compact&langs_count=7&theme=dracula"/>](https://github.com/) <br>
-[<img width="500px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=kamibicalho&show_icons=true&include_all_commits=true&theme=dracula"/>](https://github.com/)<br>
-[<img width="500px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=kamibicalho&amp;theme=dracula"/>](https://github.com/)
+[<img width="500px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamibicalho&layout=compact&langs_count=7&theme=dracula"/>](https://github.com/kamibicalho) <br>
+[<img width="500px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=kamibicalho&show_icons=true&include_all_commits=true&theme=dracula"/>](https://github.com/kamibicalho)<br>
+[<img width="500px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=kamibicalho&amp;theme=dracula"/>](https://github.com/kamibicalho)
 
 ## Contatos:
 
